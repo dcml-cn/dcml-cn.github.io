@@ -1,6 +1,6 @@
-## MILCOM
 
 <img src="images/milcom-logos.png?raw=true"/>
+## Multimodal Imaging and Learning for Computional-based Medicine
 
 ---
 
