@@ -1,6 +1,6 @@
 ## MILCOM
 
-<img src="images/logo.jpg?raw=true"/>
+<img src="images/milcom-logos.png?raw=true"/>
 
 ---
 
