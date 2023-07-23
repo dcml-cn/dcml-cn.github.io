@@ -4,17 +4,17 @@
 
 ---
 
-### Survival Analysis and Learning 
+### Survival Analysis, PET images and Learning 
 
-[Project 1 Title](/sample_page)
+[Graph-based survival learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Self-supervised learning](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Random Survival Forests Framework](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
