@@ -18,6 +18,18 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Image Reconstruction and Learning
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+### Learning with small datasets and few annotations
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Industrial Collaborations
 
