@@ -1,5 +1,7 @@
 ## MILCOM
 
+<img src="images/logo.jpg?raw=true"/>
+
 ---
 
 ### Survival Analysis and Learning 
