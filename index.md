@@ -15,9 +15,11 @@ Since 2018 I have been the holder of the MILCOM (Medical Imaging and Learning fo
 
 This project points to the development of machine learning algorithms to assist the diagnosis and personalized treatment of patients suffering from hematological diseases such as multiple myeloma or diffuse large B-cell lymphoma (DLBCL) patients. In particular, we aim to *predict a patient's prognosis or treatment response given their full-body PET images*, possibly combined with clinical data. To this end, we have proposed several types of approaches: 
 
-[Graph-based survival learning](/pdf/sample_presentation.pdf)
-[Deep Learning and self-supervised learning ](/sample_page)
-[Random Survival Forests Framework](http://example.com/)
+
+[Graph-based survival learning](/projects/petsurv)
+[Deep Learning and self-supervised learning ](/projects/petsurv)
+[Random Survival Forests Framework](/projects/petsurv)
+
 
 
 ---
@@ -41,6 +43,11 @@ This project points to the development of machine learning algorithms to assist 
 
 ---
 
+
+
+[Graph-based survival learning](/pdf/sample_presentation.pdf)
+[Deep Learning and self-supervised learning ](/sample_page)
+[Random Survival Forests Framework](http://example.com/)
 
 
 
