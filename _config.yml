@@ -10,14 +10,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>and<br>
   the <a href="https://sims.ls2n.fr">SIMS</a> team from the
   <a href="https://www.ls2n.fr">LS2N</a> lab.
-  <br>
+  </center>
+  <br><br>
   Since 2018 I have been the holder of the MILCOM Chair. MILCOM aims to design machine-learning methods that explicitly consider the challenges of medical imaging data such as dealing with volume multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations.
-
   <br><br>
   <a href="https://scholar.google.com/citations?hl=en&user=kr_GYOsAAAAJ">Google Scholar Profile</a> 
   <br><br>
   <a href="www.linkedin.com/in/diana-mateus-9a3618129">LinkedIn Profile</a> 
-  </center>
+  
 
 
 remote_theme: pages-themes/minimal@v0.2.0
