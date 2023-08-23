@@ -1,4 +1,4 @@
-| <img src="images/milcom-logos.png?raw=true"/>| : **Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair** :|
+| <img src="images/milcom-logos.png?raw=true"/>| :**Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair**:|
 
 <br>
 My research activities center around medical image analysis through signal processing, machine learning, and computer vision methods. 
@@ -31,7 +31,9 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 ### Learning with small datasets and few annotations
 
 [Muscle Segmentation / MR and ultrasound](/projects/muscleseg)
+
 [Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum)
+
 [Deep Image Regularization](/projects/dipreg) Industrial Collaboration with [KEOSYS](http://example.com/)
 
 ---
@@ -39,6 +41,7 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 ### Early Breast Cancer Detection
 
 [Multiscale Graph Neural Networks](/projects/mammo)
+
 [Weakly Supervised and Multitask Learning for Anomaly Detection](/projects/mammo)
 
 Industrial Collaboration [HERAMI](http://example.com/)
