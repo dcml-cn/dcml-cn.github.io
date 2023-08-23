@@ -1,6 +1,8 @@
 
 ## Early Breast Detection from Images
 
+[Back to the main page](https://dcml-cn.github.io/)
+
 This project points to the early breast cancer detection from mammographies. The challenges are the heterogeneous and incomplete nature of the annotations. The main contribution has been the proposition of a self-supervised approach to guide a convolutional neural network to detect and spatially locate anormalities while training with image-wise annotations only\footnote{\bibentry{tardy2021abnormalities}}. We have also explored two approaches to measure  the uncertainty of the predictions \footnote{\bibentry{tardy2019uncertainty}} and a multi-task method to learn from hetereogenous labels\footnote{\bibentry{tardy2022multitask}}. These are outcomes of Mickael Tardy's Ph.D.  
 
 A second Ph.D., Guillaume Pelluet, follows this  fruitful industrial collaboration with the company Herami.  He has focused on the multi-scale nature of the problem\footnote{\bibentry{pelluet2021brainles}} and on further increasing the interpretability of the results through graph CNNs\footnote{\bibentry{pelluet2022miua}}.
