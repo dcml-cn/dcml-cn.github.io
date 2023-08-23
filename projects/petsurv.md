@@ -6,20 +6,24 @@
 
 <img src="../images/graphsurv.png"/>
 
-We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients[[1]](#isbi2023). We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction[^ai4treat2023]
-
-[^ai4treat2023]: otherref
+We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients[[ISBI2023]](#isbi2023). We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction [[AI4Treat@MICCAI2023]](#ai4treat2023)
 
 
-<a id="isbi2023">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+<a id="ai4treat2023">[AI4Treat@MICCAI2023]</a> 
+
+In AI4Treat Workshop with MICCAI 2023
+
+
+<a id="isbi2023">[ISBI2023]</a> 
+Aswathi, Mira Rizkallah, Gauthier Frecon, Cl´ement Bailly, Caroline M Bodet-Milin, Olivier Casasnovas, Steven Le Gouill, Kraeber-Bodere Francoise, Thomas Carlier, and Diana Mateus. 
+Lesion graph neural networks for 2-year progression free survival classification of Diffuse Large B-Cell Lymphoma patients. 
+In International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, April 2023.
+
 
 ---
 ### Deep Learning and self-supervised learning 
 
-<img src="images/deep_surv"/>
+<img src="images/deepsurv.png"/>
 
 Study of existing and new formulations of the survival cost function to train the network and the proposition of self-supervised pretraining strategies to cope with the database size\footnote{Journal under review and \bibentry{morvan2020learned}}. These results of these two types of methods were the outcome of Ludivine Morvan Ph.D. (2018-2021).  We have also considered a full-body PET imaging approach, which does not require lesion segmentation\footnote{\bibentry{nguyen2022mic}}  in the context of Khac Lan's postdoc (2021-2022).
 
