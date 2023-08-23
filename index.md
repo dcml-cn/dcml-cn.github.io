@@ -33,16 +33,6 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 
 [Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum-federated)
 
-
----
-### Image registration with NN (CIFRE ICO-KEOSYS)
-
-Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
-
-
-<img src="images/dip_reg.png"/>
-[Deep Image Regularization for Image Registration](/projects/dipreg)  
-
 ---
 
 ### Early Breast Cancer Detection (CIFRE HERAMI)
@@ -52,6 +42,17 @@ Industrial Collaboration with [HERAMI](https://www.hera-mi.com/en/)
 [Multiscale Graph Neural Networks](/projects/mammo)
 
 [Weakly Supervised and Multitask Learning for Anomaly Detection](/projects/mammo)
+
+---
+### Image registration with NN (CIFRE ICO-KEOSYS)
+
+Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
+
+
+<img src="images/dip_reg.png"/>
+[Deep Image Regularization for Image Registration](/projects/dip_reg)  
+
+
 
 
 
