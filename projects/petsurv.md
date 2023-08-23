@@ -19,7 +19,7 @@ Study of existing and new formulations of the survival cost function to train th
 
 As a byproduct of the above results, we have started a collaboration for the PET image analysis of  cardiovascular applications.  Recently,  the results of Gauthier Frecon (engineer, 2021-2022) in this direction, have been published in \footnote{\bibentry{godefroy2023jacc}}.
 
-<img src="../images/multitask_pet"/>
+<img src="../images/multitask_pet.png"/>
 
 --
 ### Machine Learning Frameworks
