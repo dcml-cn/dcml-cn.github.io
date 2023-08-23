@@ -1,6 +1,7 @@
 title: Diana Mateus # your name (or website title) here
 logo: "/images/dm-small.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <center>
   Full Professor (CNU 61) 
   <br>
   at
@@ -9,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>and<br>
   the <a href="https://sims.ls2n.fr">SIMS</a> team from the
   <a href="https://www.ls2n.fr">LS2N</a> lab.
+  </center>
   <br><br>
   <a href="https://scholar.google.com/citations?hl=en&user=kr_GYOsAAAAJ">Google Scholar Profile</a> 
   <br><br>
