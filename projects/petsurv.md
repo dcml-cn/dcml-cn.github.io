@@ -4,7 +4,7 @@
 
 ### Graph Neural Networks for survival analysis
 
-<img src="./images/graphsurv.png"/>
+<img src="../images/graphsurv.png"/>
 
 <br>
 We propose multi-lesion graphs to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide initial results for 2-year progression free 
@@ -19,7 +19,7 @@ Study of existing and new formulations of the survival cost function to train th
 
 As a byproduct of the above results, we have started a collaboration for the PET image analysis of  cardiovascular applications.  Recently,  the results of Gauthier Frecon (engineer, 2021-2022) in this direction, have been published in \footnote{\bibentry{godefroy2023jacc}}.
 
-<img src="./images/multitask_pet"/>
+<img src="../images/multitask_pet"/>
 
 --
 ### Machine Learning Frameworks
