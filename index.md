@@ -40,7 +40,7 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
 
 
-<img src="images/dip_reg"/>
+<img src="images/dip_reg.png"/>
 [Deep Image Regularization for Image Registration](/projects/dipreg)  
 
 ---
