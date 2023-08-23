@@ -2,8 +2,6 @@
 
 [Back to the main page](https://dcml-cn.github.io/)
 
-**In collaboration with:** 
-
 ### Graph Neural Networks for survival analysis
 
 <br>
