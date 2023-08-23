@@ -4,7 +4,7 @@
 The following projects have been supported in part by the European Regional Development
 Fund (FEDER), the Pays de la Loire region on the Connect Talent scheme and Nantes Métropole (Convention 2017-10470).
 
-### Survival Analysis, PET images and Machine Learning 
+### Survival Analysis, PET images and Machine Learning (MILCOM, SIRIC)
 
 <img src="images/petsurv.png"/>
 
@@ -19,7 +19,7 @@ This project points to the development of machine learning algorithms to assist 
 These works are done in close collaboration  with the Nuclear Medicine department of the Nantes CHU and the [INSERM CRCI2NA team 2](https://crci2na.univ-nantes.fr/en/research/team-2). They also contribute to the [SIRIC ILIAD](https://www.siric-iliad.com/en/).
 
 ---
-### Image Reconstruction and Deep Neural Models
+### Image Reconstruction and Deep Neural Models (MILCOM, )
 
 [Diffusion Models for Ultrasound Image reconstruction](/projects/reco.md#diffusion-models-for-ultrasound-image-reconstruction)
 
@@ -27,17 +27,26 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 <img src="images/dip_pet"/>
 
 ---
-### Learning with small datasets and few (or no) annotations
+### Learning with small datasets and few (or no) annotations (MILCOM, ANR-FULGUR)
 
 [Volumetric Segmentation / MR and ultrasound ](/projects/segment.md)
 
 [Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum-federated)
 
-[Deep Image Regularization for Image Registration](/projects/dipreg)  Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
+
+---
+### Image registration with NN (CIFRE ICO-KEOSYS)
+
+Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
+
+
+<img src="images/dip_reg"/>
+[Deep Image Regularization for Image Registration](/projects/dipreg)  
 
 ---
 
-### Early Breast Cancer Detection
+### Early Breast Cancer Detection (CIFRE HERAMI)
+
 Industrial Collaboration with [HERAMI](https://www.hera-mi.com/en/)
 
 [Multiscale Graph Neural Networks](/projects/mammo)
