@@ -1,8 +1,4 @@
-<center>
-<img src="images/milcom-logos.png?raw=true"/>
-</center>
-
-## Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair
+| <img src="images/milcom-logos.png?raw=true"/>| <b> Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair </b>|
 
 <br>
 My research activities center around medical image analysis through signal processing, machine learning, and computer vision techniques. 
