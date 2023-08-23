@@ -11,7 +11,7 @@ Fund (FEDER), the Pays de la Loire region on the Connect Talent scheme and Nante
 
 This project points to the development of machine learning algorithms to assist the diagnosis and personalized treatment of patients suffering from hematological diseases such as multiple myeloma or diffuse large B-cell lymphoma (DLBCL) patients. In particular, we aim to *predict a patient's prognosis or treatment response given their full-body PET images*, possibly combined with clinical data. To this end, we have proposed several types of approaches: 
 
-[Graph Neural Networks for survival analysis](/projects/petsurv/#graph-neural-networks-for-survival-analysis)
+[Graph Neural Networks for survival analysis](/projects/petsurv.md#graph-neural-networks-for-survival-analysis)
 
 [Deep Learning and self-supervised learning ](/projects/petsurv)
 
