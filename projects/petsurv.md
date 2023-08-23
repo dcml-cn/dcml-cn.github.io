@@ -8,7 +8,7 @@
 
 <br>
 We propose multi-lesion graphs as an original solution to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide results for the 
-<img src="images/graph_surv"/>
+<img src="images/graphsurv.png"/>
 
 ---
 ### Deep Learning and self-supervised learning 
