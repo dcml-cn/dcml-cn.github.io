@@ -6,9 +6,10 @@
 
 <img src="../images/graphsurv.png"/>
 
-<br>
-We propose multi-lesion graphs to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide initial results for 2-year progression free 
+We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients[^isbi2023]. We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction[^ai4treat2023]
 
+[^isbi2023]: ISBIREF
+[^ai4treat2023]: otherref
 
 ---
 ### Deep Learning and self-supervised learning 
