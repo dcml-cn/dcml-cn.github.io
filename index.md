@@ -33,12 +33,12 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 
 [Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum-federated)
 
-[Deep Image Regularization for Image Registration](/projects/dipreg) Industrial Collaboration with [KEOSYS](https://www.keosys.com)
+[Deep Image Regularization for Image Registration](/projects/dipreg)  Collaboration with [ICO]() and [KEOSYS](https://www.keosys.com)
 
 ---
 
 ### Early Breast Cancer Detection
-Industrial Collaboration [HERAMI](https://www.hera-mi.com/en/)
+Industrial Collaboration with [HERAMI](https://www.hera-mi.com/en/)
 
 [Multiscale Graph Neural Networks](/projects/mammo)
 
