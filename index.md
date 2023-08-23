@@ -12,7 +12,7 @@ This project points to the development of machine learning algorithms to assist 
 
 [Graph Neural Networks for survival analysis](/projects/petsurv.md#graph-neural-networks-for-survival-analysis)
 
-[Deep Learning and self-supervised learning ](/projects/petsurv.md#deep-learning-and-self-supervised-learning)
+[Deep Learning and self-supervised learning ](/projects/petsurv.md#self-supervised-and-multi-task-learning)
 
 [Random Survival Forests Framework](/projects/petsurv.md#random-survival-forests-framework)
 
