@@ -1,12 +1,9 @@
-## This can be your internal website page / project page
+## PET Image Analysis
 
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Graph Neural Networks for survival analysis]
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-[Graph-based survival learning](/pdf/sample_presentation.pdf)
 <br>
 We propose multi-lesion graphs as an original solution to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide results for the 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
