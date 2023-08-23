@@ -4,9 +4,11 @@
 
 ### Graph Neural Networks for survival analysis
 
-<br>
-We propose multi-lesion graphs as an original solution to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide results for the 
 <img src="images/graphsurv.png"/>
+
+<br>
+We propose multi-lesion graphs to caracterise full-body PET images of large-B-cell diffuse lymphoma patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide initial results for 2-year progression free 
+
 
 ---
 ### Deep Learning and self-supervised learning 
@@ -20,7 +22,7 @@ As a byproduct of the above results, we have started a collaboration for the PET
 <img src="images/multitask_pet"/>
 
 --
-### Random Survival Framework
+### Machine Learning Frameworks
 
 Based on a classical processing of feature extraction from tumor regions in the images followed by a random survival forest for the prognosis predictions. The main technical contribution of this work is the conception of an unified machine learning framework  capable of automatic feature and model selection to optimize the risk predictions. This work was among the first in combining patient and PET image data for prognosis prediction in the context of multiple myeloma, and to link quantitative features(radiomics) to the risk for multiple myeloma [1]. The benefits were further demonstrated on two prospective clinical datasets\footnote{\bibentry{jamet2020random}}. 
 
