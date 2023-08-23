@@ -13,9 +13,9 @@ This project points to the development of machine learning algorithms to assist 
 
 [Graph Neural Networks for survival analysis](/projects/petsurv.md#graph-neural-networks-for-survival-analysis)
 
-[Deep Learning and self-supervised learning ](/projects/petsurv)
+[Deep Learning and self-supervised learning ](/projects/petsurv.md#deep-learning-and-self-supervised-learning)
 
-[Random Survival Forests Framework](/projects/petsurv)
+[Random Survival Forests Framework](/projects/petsurv.md#random-survival-forests-framework)
 
 These works are done in close collaboration  with the Nuclear Medicine department of the CHU Nantes and the INSERM CRCINA team 2. They also contribute to the SIRIC ILIAD.
 
