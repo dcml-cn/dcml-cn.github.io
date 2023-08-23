@@ -20,31 +20,29 @@ This project points to the development of machine learning algorithms to assist 
 These works are done in close collaboration  with the Nuclear Medicine department of the CHU Nantes and the INSERM CRCINA team 2. They also contribute to the SIRIC ILIAD.
 
 ---
-### Image Reconstruction and Learning
+### Image Reconstruction and Deep Neural Models
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diffusion Models for PET Image reconstruction](/projects/drus)
+
+[Deep Image Priors for PET Image reconstruction](/projects/dipreco)
+<img src="images/dip_pet"/>
 
 ---
 ### Learning with small datasets and few annotations
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Muscle Segmentation / MR and ultrasound](/projects/muscleseg)
+[Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum)
+[Deep Image Regularization](/projects/dipreg) Industrial Collaboration with [KEOSYS](http://example.com/)
 
 ---
 
-### Industrial Collaborations
+### Early Breast Cancer Detection
 
-- [HERAMI](http://example.com/)
-- [KEOSYS](http://example.com/)
+[Multiscale Graph Neural Networks](/projects/mammo)
+[Weakly Supervised and Multitask Learning for Anomaly Detection](/projects/mammo)
 
----
+Industrial Collaboration [HERAMI](http://example.com/)
 
-
-
-[Graph-based survival learning](/pdf/sample_presentation.pdf)
-[Deep Learning and self-supervised learning ](/sample_page)
-[Random Survival Forests Framework](http://example.com/)
 
 
 
