@@ -1,6 +1,6 @@
 ## Survival Analysis and Treatment Response Prediction from PET Images
 
-[Back to the main page](/index.md)
+[Back to the main page](index.md)
 
 **In collaboration with:** 
 
