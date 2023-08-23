@@ -6,11 +6,10 @@
 
 <img src="../images/graphsurv.png"/>
 
-We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients[[ISBI2023]](#isbi2023). We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction [[AI4Treat@MICCAI2023]](#ai4treat2023)
+We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients [[ISBI2023]](#isbi2023). We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction [[AI4Treat@MICCAI2023]](#ai4treat2023)
 
 
 <a id="ai4treat2023">[AI4Treat@MICCAI2023]</a> 
-
 In AI4Treat Workshop with MICCAI 2023
 
 
@@ -23,9 +22,9 @@ In International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Co
 ---
 ### Deep Learning and self-supervised learning 
 
-<img src="images/deepsurv.png"/>
+<img src="../images/deepsurv.png"/>
 
-Study of existing and new formulations of the survival cost function to train the network and the proposition of self-supervised pretraining strategies to cope with the database size\footnote{Journal under review and \bibentry{morvan2020learned}}. These results of these two types of methods were the outcome of Ludivine Morvan Ph.D. (2018-2021).  We have also considered a full-body PET imaging approach, which does not require lesion segmentation\footnote{\bibentry{nguyen2022mic}}  in the context of Khac Lan's postdoc (2021-2022).
+Study of existing and new formulations of the survival cost function to train the network and the proposition of self-supervised pretraining strategies to cope with the database size\footnote{Journal under review and \bibentry{morvan2020learned}}. These results of these two types of methods were the outcome of Ludivine Morvan Ph.D. (2018-2021).  We have also considered a full-body PET imaging approach, which does not require lesion segmentation\footnote [[MIC2022]]  in the context of Khac Lan's postdoc (2021-2022).
 
 As a byproduct of the above results, we have started a collaboration for the PET image analysis of  cardiovascular applications.  Recently,  the results of Gauthier Frecon (engineer, 2021-2022) in this direction, have been published in \footnote{\bibentry{godefroy2023jacc}}.
 
