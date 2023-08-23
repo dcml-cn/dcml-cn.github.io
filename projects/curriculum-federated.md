@@ -1,5 +1,7 @@
 ## Curriculum, Self-paced and Federated Learning for Fracture Classification
 
+[Back to the main page](https://dcml-cn.github.io/)
+
 This project aims at the classification of hip (proximal femur) fractures from X-ray images. Initially, we demonstrated the capabilities of deep neural networks to distinguish fractured from normal X-rays, but moreover to provide weakly supervised localization of the fractures from image-wise annotations only\footnote{\bibentry{Jimenez-Sanchez2020}}. Next, since the clinical application calls for a fine-grained classification in 6 classes, we developed a method to guide the optimization of the neural networks by including prior-knowledge information or by analysing the uncertainty of the predictions. In this way we stablished several curriculum and self-paced learning strategies, capable of better dealing with small imbalanced datasets and noisy annotations\footnote{\bibentry{jimenez2022curriculum}}. The last contribution in this axis, was the design of a simple curriculum to avoid forgetting in a challenging federated learning case through a curriculum-guided unsupervised domain adaption scheme\footnote{\bibentry{jimenez2023cmpb}}. 
 
 These results are the main contributions of Amelia Jimenez-Sanchez's Ph.D. thesis. This work has been done in collaboration with  Universidad Pompeu Fabra ( Barcelona), the Technical University of Munich (TUM) and the Klinikum Rechts der Isar (Munich, Germany).
