@@ -3,6 +3,8 @@
 [Back to the main page](https://dcml-cn.github.io/)
 
 ### Graph Neural Networks for survival analysis
+*PhD Candidate:* Oriane Thiery (2022-2025) - Funded by: [AIby4](https://aiby4.ls2n.fr) and [Region Pays de la Loire]()
+*Master student:* Aswathi (2022)
 
 <img src="../images/graphsurv.png"/>
 
@@ -22,6 +24,9 @@ We propose multi-lesion graphs to caracterise full-body PET images of diffuse la
 
 ---
 ### Self-supervised and Multi-task Learning 
+
+*Phd Candidate:* Ludivine Morvan (2018-2021)
+*Postdoc:* Khac Lan Nguyen (2021-2022)
 
 <img src="../images/deepsurv.png"/>
 
