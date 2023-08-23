@@ -36,18 +36,18 @@ As a byproduct of the above results, we have started a collaboration for the PET
 
 <img src="../images/multitask_pet.png"/>
 
-* <a idref="tprms20023">[TRPMS2023]
+* <a idref="tprms20023">[TRPMS2023]</a>
   Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Bastien Jamet, Cl´ement Bailly, Caroline Bodet-Milin, Stephane Chauvie, Cyrille Touzeau, Philippe Moreau, Elena Zamagni, Francoise Kraeber-Bod´er´e, Thomas Carlier, and Diana Mateus.
   Multiple myeloma prognosis from pet images: Deep survival losses and contrastive pre-training.
   IEEE Transactions on Radiation and Plasma Medical Sciences, 2023.
   [doi](doi: 10.1109/TRPMS.2023.3283562.)
 
-* <a idref="mic2022">[MIC2022]
+* <a idref="mic2022">[MIC2022]</a>
   K.L. Nguyen, Bastien Jamet, Clement Bailly, Caroline Bodet-Milin, Francoise Kraeber-Bod´er´e, Philipe Moreau, Cyrille Touzeau, Thomas Carlier, and Diana Mateus. A multi-task learning approach for prediction of treatment response in multiple myeloma.
   *In IEEE Nuclear Science Symposium, Medical Imaging Conference*,
   number M-19-05, November 2022.
 
-* <a idref="prime2020">[Prime@MICCAI2020]
+* <a idref="prime2020">[Prime@MICCAI2020]</a>
   Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Bastien Jamet, Cl´ement Bailly, Caroline Bodet-Milin, Stephane Chauvie, Cyrille Touzeau, Philippe Moreau, Elena Zamagni, Francoise Kraeber-Bod´er´e, Thomas Carlier, and Diana Mateus. Learned deep radiomics for survival analysis with attention.
   *In International MICCAI Workshop on PRedictive Intelligence In MEdicine PRIME*, Springer, October 2020.
 
@@ -62,7 +62,7 @@ Based on a classical processing of feature extraction from tumor regions in the 
   Random survival forest to predict transplant-eligible newly diagnosed multiple myeloma outcome including FDG-PET radiomics: a combined analysis of two independent prospective european trials.
   *European Journal of Nuclear Medicine and Molecular Imaging*
   2020. 
-  [doi](https://doi.org/10.1007/s00259-020-05049-6.)
+  [doi](https://doi.org/10.1007/s00259-020-05049-6)
 
 
 * <a id="ijcars2019">[IJCARS2019]</a>
