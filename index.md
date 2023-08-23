@@ -14,9 +14,9 @@ This project points to the development of machine learning algorithms to assist 
 
 [Self Supervised and Multitask learning ](/projects/petsurv.md#self-supervised-and-multi-task-learning)
 
-[Random Survival Forests Framework](/projects/petsurv.md#random-survival-forests-framework)
+[Random Survival Forests Framework](/projects/petsurv.md#random-survival-forests-and-machine-learning-frameworks)
 
-These works are done in close collaboration  with the Nuclear Medicine department of the CHU Nantes and the INSERM CRCINA team 2. They also contribute to the SIRIC ILIAD.
+These works are done in close collaboration  with the Nuclear Medicine department of the Nantes CHU and the [INSERM CRCI2NA team 2](https://crci2na.univ-nantes.fr/en/research/team-2). They also contribute to the [SIRIC ILIAD](https://www.siric-iliad.com/en/).
 
 ---
 ### Image Reconstruction and Deep Neural Models
