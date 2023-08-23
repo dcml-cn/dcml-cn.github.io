@@ -1,17 +1,17 @@
-
+<center>
 <img src="images/milcom-logos.png?raw=true"/>
 ## Multimodal Imaging and Learning for Computional-based Medicine
-
+</center>
 <br>
 My research activities center around medical image analysis through signal processing, machine learning, and computer vision techniques. 
-Since 2018 I have been the holder of the MILCOM (Medical Imaging and Learning for COmputationally based Medicine) Chair. This project aims to design machine-learning methods that explicitly consider the challenges of medical imaging data. These challenges include dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. Formalizing the learning process under such conditions has been declined in three different directions within the context of three interdisciplinary collaborations. 
+Since 2018 I have been the holder of the MILCOM (Medical Imaging and Learning for COmputationally based Medicine) Chair. This project aims to design machine-learning methods that explicitly consider the challenges of medical imaging data. These challenges include dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. Formalizing the learning process under such conditions has been declined in different directions within the context of three interdisciplinary collaborations. 
 ---
 
 ### Survival Analysis, PET images and Machine Learning 
 
 <img src="images/petsurv.png"/>
 
-*Keywords*
+*Keywords: *
 
 This project points to the development of machine learning algorithms to assist the diagnosis and personalized treatment of patients suffering from hematological diseases such as multiple myeloma or diffuse large B-cell lymphoma (DLBCL) patients. In particular, we aim to *predict a patient's prognosis or treatment response given their full-body PET images*, possibly combined with clinical data. To this end, we have proposed several types of approaches: 
 
