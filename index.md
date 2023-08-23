@@ -1,8 +1,8 @@
 <center>
 <img src="images/milcom-logos.png?raw=true"/>
-  
-## Multimodal Imaging and Learning for Computional-based Medicine
 </center>
+
+## Multimodal Imaging and Learning for Computional-based Medicine
 
 <br>
 My research activities center around medical image analysis through signal processing, machine learning, and computer vision techniques. 
@@ -15,11 +15,11 @@ Since 2018 I have been the holder of the MILCOM (Medical Imaging and Learning fo
 
 This project points to the development of machine learning algorithms to assist the diagnosis and personalized treatment of patients suffering from hematological diseases such as multiple myeloma or diffuse large B-cell lymphoma (DLBCL) patients. In particular, we aim to *predict a patient's prognosis or treatment response given their full-body PET images*, possibly combined with clinical data. To this end, we have proposed several types of approaches: 
 
-
 [Graph-based survival learning](/projects/petsurv)
-[Deep Learning and self-supervised learning ](/projects/petsurv)
-[Random Survival Forests Framework](/projects/petsurv)
 
+[Deep Learning and self-supervised learning ](/projects/petsurv)
+
+[Random Survival Forests Framework](/projects/petsurv)
 
 
 ---
