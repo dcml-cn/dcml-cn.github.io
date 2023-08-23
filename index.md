@@ -21,29 +21,29 @@ These works are done in close collaboration  with the Nuclear Medicine departmen
 ---
 ### Image Reconstruction and Deep Neural Models
 
-[Diffusion Models for PET Image reconstruction](/projects/drus)
+[Diffusion Models for Ultrasound Image reconstruction](/projects/reco.md#diffusion-models-for-ultrasound-image-reconstruction)
 
-[Deep Image Priors for PET Image reconstruction](/projects/dipreco)
+[Deep Image Priors for PET Image reconstruction](/projects/reco.md#deep-image-priors-for-pet-image-reconstruction)
 <img src="images/dip_pet"/>
 
 ---
-### Learning with small datasets and few annotations
+### Learning with small datasets and few (or no) annotations
 
-[Muscle Segmentation / MR and ultrasound](/projects/muscleseg)
+[Volumetric Segmentation / MR and ultrasound ](/projects/segment.md)
 
-[Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum)
+[Curriculum and Federated Learning / Fracture Classification / X-ray](/projects/curriculum-federated)
 
-[Deep Image Regularization](/projects/dipreg) Industrial Collaboration with [KEOSYS](http://example.com/)
+[Deep Image Regularization for Image Registration](/projects/dipreg) Industrial Collaboration with [KEOSYS](https://www.keosys.com)
 
 ---
 
 ### Early Breast Cancer Detection
+Industrial Collaboration [HERAMI](https://www.hera-mi.com/en/)
 
 [Multiscale Graph Neural Networks](/projects/mammo)
 
 [Weakly Supervised and Multitask Learning for Anomaly Detection](/projects/mammo)
 
-Industrial Collaboration [HERAMI](http://example.com/)
 
 
 
