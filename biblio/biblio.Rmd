@@ -1,8 +1,12 @@
+```yaml
 ---
-output:
+title: "Sample Document"
+output: 
   md_document:
     variant: markdown_github
-bibliography: mateus-journals.bib
+bibliography: [mateus-macros.bib, mateus-journals.bib]
 ---
+
+```
 
 [@morvan2023trpms]
