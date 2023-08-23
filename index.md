@@ -1,4 +1,4 @@
-| <img src="images/milcom-logos.png?raw=true"/>| <h1>:Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair: |
+| <img src="images/milcom-logos.png?raw=true"/>| <h2> :Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair: </h2> |
 
 <br>
 The following projects have been supported in part by the European Regional Development
