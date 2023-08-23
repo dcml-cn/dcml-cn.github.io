@@ -6,7 +6,7 @@
 
 <br>
 My research activities center around medical image analysis through signal processing, machine learning, and computer vision techniques. 
-Since 2018 I have been the holder of the MILCOM (Medical Imaging and Learning for COmputationally based Medicine) Chair. This project aims to design machine-learning methods that explicitly consider the challenges of medical imaging data such as dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. 
+Since 2018 I have been the holder of the MILCOM Chair. This project aims to design machine-learning methods that explicitly consider the challenges of medical imaging data such as dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. 
 ---
 
 ### Survival Analysis, PET images and Machine Learning 
