@@ -9,14 +9,15 @@
 We propose multi-lesion graphs to caracterise full-body PET images of diffuse large-B-cell lymphoma (DLBCL) patients, instead of single lesion or full image approaches, graphs explicitely model the varibilities in size and number of lesions. Relying on a Graph-Attention-Network (GAT) on top of the multi-lesion attributed graph, and based on a prospective dataset of more than 500 patients, we provide estimages for the 2-year progression free survival of DLBCL patients [[ISBI2023]](#isbi2023). We have further adapted and extended this approach with a *multi-modal self-attention* block to integrate clinical tabular data within the prediction [[AI4Treat@MICCAI2023]](#ai4treat2023)
 
 
-<a id="ai4treat2023">[AI4Treat@MICCAI2023]</a> 
-In AI4Treat Workshop with MICCAI 2023
+* <a id="ai4treat2023">[AI4Treat@MICCAI2023]</a>
+  Oriane Thiery, Mira Rizkallah, Gauthier Frecon, Cl´ement Bailly, Caroline M Bodet-Milin, Olivier Casasnovas, Steven Le Gouill, Kraeber-Bodere Francoise, Thomas Carlier, and Diana Mateus.
+  In AI4Treat Workshop with MICCAI 2023
 
 
-<a id="isbi2023">[ISBI2023]</a> 
-Aswathi, Mira Rizkallah, Gauthier Frecon, Cl´ement Bailly, Caroline M Bodet-Milin, Olivier Casasnovas, Steven Le Gouill, Kraeber-Bodere Francoise, Thomas Carlier, and Diana Mateus. 
-Lesion graph neural networks for 2-year progression free survival classification of Diffuse Large B-Cell Lymphoma patients. 
-In International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, April 2023.
+* <a id="isbi2023">[ISBI2023]</a>
+  Aswathi, Mira Rizkallah, Gauthier Frecon, Cl´ement Bailly, Caroline M Bodet-Milin, Olivier Casasnovas, Steven Le Gouill, Kraeber-Bodere Francoise, Thomas Carlier, and Diana Mateus.
+  Lesion graph neural networks for 2-year progression free survival classification of Diffuse Large B-Cell Lymphoma patients.
+  In International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, April 2023.
 
 
 ---
@@ -33,11 +34,11 @@ As a byproduct of the above results, we have started a collaboration for the PET
 --
 ### Machine Learning Frameworks
 
-Based on a classical processing of feature extraction from tumor regions in the images followed by a random survival forest for the prognosis predictions. The main technical contribution of this work is the conception of an unified machine learning framework  capable of automatic feature and model selection to optimize the risk predictions. This work was among the first in combining patient and PET image data for prognosis prediction in the context of multiple myeloma, and to link quantitative features(radiomics) to the risk for multiple myeloma [1]. The benefits were further demonstrated on two prospective clinical datasets\footnote{\bibentry{jamet2020random}}. 
+Based on a classical processing of feature extraction from tumor regions in the images followed by a random survival forest for the prognosis predictions. The main technical contribution of this work is the conception of an unified machine learning framework  capable of automatic feature and model selection to optimize the risk predictions. This work was among the first in combining patient and PET image data for prognosis prediction in the context of multiple myeloma, and to link quantitative features(radiomics) to the risk for multiple myeloma [[IJCARS 2019]](#ijcars2019). The benefits were further demonstrated on two prospective clinical datasets\footnote{\bibentry{jamet2020random}}. 
 
-[1] Leveraging Random Survial Forest and PET images for prognosis of multiple myeloma at diagnosis.
-Ludivine Morvan, Thomas Carlier, Bastien Jamet, Clément Bailly, Caroline Bodet-Milin, Philippe Moreau,
-Francoise Kraeber-Bodéré, and Diana Mateus. 
-Int. journal of computer assisted radiology and surgery (IJCARS 2019)
+* <a id="ijcars2019">[IJCARS2019]</a>
+  Ludivine Morvan, Thomas Carlier, Bastien Jamet, Clément Bailly, Caroline Bodet-Milin, Philippe Moreau, Francoise Kraeber-Bodéré, and Diana Mateus.
+  Leveraging Random Survial Forest and PET images for prognosis of multiple myeloma at diagnosis.
+  Int. journal of computer assisted radiology and surgery (IJCARS 2019)
 
-[2]
+* [2]
