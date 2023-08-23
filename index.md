@@ -1,8 +1,9 @@
-| <img src="images/milcom-logos.png?raw=true"/>| : ## **Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair** :|
+| <img src="images/milcom-logos.png?raw=true"/>| : **Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair** :|
 
 <br>
-My research activities center around medical image analysis through signal processing, machine learning, and computer vision techniques. 
-Since 2018 I have been the holder of the MILCOM Chair. MILCOM aims to design machine-learning methods that explicitly consider the challenges of medical imaging data such as dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. 
+My research activities center around medical image analysis through signal processing, machine learning, and computer vision methods. 
+Since 2018 I have been the holder of the MILCOM Chair. MILCOM aims to design machine-learning methods that explicitly consider the challenges of medical imaging data such as dealing with large volumes,  multi-modal and heterogenous data,  small and imbalanced databases, and/or limited access to expert annotations. The following projects have been supported in part by the European Regional Development
+Fund (FEDER), the Pays de la Loire region on the Connect Talent scheme (MILCOM Project) and Nantes Métropole (Convention 2017-10470).
 
 ### Survival Analysis, PET images and Machine Learning 
 
