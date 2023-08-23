@@ -35,32 +35,33 @@ As a byproduct of the above results, we have started a collaboration for the PET
   Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Bastien Jamet, Cl´ement Bailly, Caroline Bodet-Milin, Stephane Chauvie, Cyrille Touzeau, Philippe Moreau, Elena Zamagni, Francoise Kraeber-Bod´er´e, Thomas Carlier, and Diana Mateus.
   Multiple myeloma prognosis from pet images: Deep survival losses and contrastive pre-training.
   IEEE Transactions on Radiation and Plasma Medical Sciences, 2023.
-  doi: 10.1109/TRPMS.2023.3283562.
+  [doi](doi: 10.1109/TRPMS.2023.3283562.)
 
 * <a idref="mic2022">[MIC2022]
   K.L. Nguyen, Bastien Jamet, Clement Bailly, Caroline Bodet-Milin, Francoise Kraeber-Bod´er´e, Philipe Moreau, Cyrille Touzeau, Thomas Carlier, and Diana Mateus. A multi-task learning approach for prediction of treatment response in multiple myeloma.
-  In IEEE Nuclear Science Symposium, Medical Imaging Conference,
+  *In IEEE Nuclear Science Symposium, Medical Imaging Conference*,
   number M-19-05, November 2022.
 
 * <a idref="prime2020">[Prime@MICCAI2020]
   Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Bastien Jamet, Cl´ement Bailly, Caroline Bodet-Milin, Stephane Chauvie, Cyrille Touzeau, Philippe Moreau, Elena Zamagni, Francoise Kraeber-Bod´er´e, Thomas Carlier, and Diana Mateus. Learned deep radiomics for survival analysis with attention.
-  In International MICCAI Workshop on PRedictive Intelligence In MEdicine PRIME, Springer, October 2020.
+  *In International MICCAI Workshop on PRedictive Intelligence In MEdicine PRIME*, Springer, October 2020.
 
 
 --
-### Machine Learning Frameworks
+### Random Survival Forests and Machine Learning Frameworks
 
 Based on a classical processing of feature extraction from tumor regions in the images followed by a random survival forest for the prognosis predictions. The main technical contribution of this work is the conception of an unified machine learning framework  capable of automatic feature and model selection to optimize the risk predictions. This work was among the first in combining patient and PET image data for prognosis prediction in the context of multiple myeloma, and to link quantitative features(radiomics) to the risk for multiple myeloma [[IJCARS 2019]](#ijcars2019). The benefits were further demonstrated on two prospective clinical datasets [[EJNMMI2020]](#jamet2020). 
 
 * <a id="jamet2020">[EJNMMI2020]</a>
   Bastien Jamet, Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Cl´ement Bailly, St´ephane Chauvie, Philippe Moreau, Cyrille Touzeau, Elena Zamagni, Caroline Bodet-Milin, Francoise Kraeber-Bod´er´e, Diana Mateus, and Thomas Carlier.
   Random survival forest to predict transplant-eligible newly diagnosed multiple myeloma outcome including FDG-PET radiomics: a combined analysis of two independent prospective european trials.
-  European Journal of Nuclear Medicine and Molecular Imaging 2020.
-  https://doi.org/10.1007/s00259-020-05049-6.
+  *European Journal of Nuclear Medicine and Molecular Imaging*
+  2020. 
+  [doi](https://doi.org/10.1007/s00259-020-05049-6.)
 
 
 * <a id="ijcars2019">[IJCARS2019]</a>
   Ludivine Morvan, Thomas Carlier, Bastien Jamet, Clément Bailly, Caroline Bodet-Milin, Philippe Moreau, Francoise Kraeber-Bodéré, and Diana Mateus.
   Leveraging Random Survial Forest and PET images for prognosis of multiple myeloma at diagnosis.
-  Int. journal of computer assisted radiology and surgery
+  *Int. journal of computer assisted radiology and surgery 2019*
 
