@@ -1,5 +1,7 @@
 ## Spatial continuity and domain adaption for 3D muscle segmentation
 
+[Back to the main page](https://dcml-cn.github.io/)
+
 In this project we aim at segmenting and quantifying the volume of muscles from ultrasound or magnetic resonance volumes. Muscle volume is a biomarker for high-performance athletes and in degenerative musculoskeletal diseases.The main challenge here is the annotation cost, with a manual annotation of a single volume ranging from 5 hours to 1 week according to the number of muscles to segment.  The addressed research question  is how to make accurate predictions with a segmentation deep neural network trained with few subjects and sparse annotations.  Our main contributions involve learning from incomplete annotations\footnote{\bibentry{duque2020spatio}} and adding a "spatio-temporal" modeling  between 2D slices of the same volume \footnote{\bibentry{alchanti2021ultrasound}}.
 We have also started investigating to transfer the knowledge across imaging modalities \footnote{\bibentry{dawood2021olva}}. These are the main results of the Vanessa Gonzalez-Duque (Ph.D. candidate) and Dawood Al Chanti (postdoc, now MdC).  Louise Piecuch,  engineer,  has extended the above approaches to consider 20 muscles simultaneously (instead of 3) and explores the use of Transformers with very promising results.
 
