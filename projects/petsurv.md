@@ -40,7 +40,7 @@ As a byproduct of the above results, we have started a collaboration for the PET
   Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Bastien Jamet, Cl´ement Bailly, Caroline Bodet-Milin, Stephane Chauvie, Cyrille Touzeau, Philippe Moreau, Elena Zamagni, Francoise Kraeber-Bod´er´e, Thomas Carlier, and Diana Mateus.
   Multiple myeloma prognosis from pet images: Deep survival losses and contrastive pre-training.
   IEEE Transactions on Radiation and Plasma Medical Sciences, 2023.
-  [doi](doi: 10.1109/TRPMS.2023.3283562.)
+  *doi:* [10.1109/TRPMS.2023.3283562](https://doi.org/10.1109/TRPMS.2023.3283562)
 
 * <a idref="mic2022">[MIC2022]</a>
   K.L. Nguyen, Bastien Jamet, Clement Bailly, Caroline Bodet-Milin, Francoise Kraeber-Bod´er´e, Philipe Moreau, Cyrille Touzeau, Thomas Carlier, and Diana Mateus. A multi-task learning approach for prediction of treatment response in multiple myeloma.
@@ -57,12 +57,12 @@ As a byproduct of the above results, we have started a collaboration for the PET
 
 Based on a classical processing of feature extraction from tumor regions in the images followed by a random survival forest for the prognosis predictions. The main technical contribution of this work is the conception of an unified machine learning framework  capable of automatic feature and model selection to optimize the risk predictions. This work was among the first in combining patient and PET image data for prognosis prediction in the context of multiple myeloma, and to link quantitative features(radiomics) to the risk for multiple myeloma [[IJCARS 2019]](#ijcars2019). The benefits were further demonstrated on two prospective clinical datasets [[EJNMMI2020]](#jamet2020). 
 
-* <a id="jamet2020">[EJNMMI2020]</a>
+* <a id="jamet2020">[EJNMMI2020](https://doi.org/10.1007/s00259-020-05049-6)</a>
   Bastien Jamet, Ludivine Morvan, Cristina Nanni, Anne-Victoire Michaud, Cl´ement Bailly, St´ephane Chauvie, Philippe Moreau, Cyrille Touzeau, Elena Zamagni, Caroline Bodet-Milin, Francoise Kraeber-Bod´er´e, Diana Mateus, and Thomas Carlier.
   Random survival forest to predict transplant-eligible newly diagnosed multiple myeloma outcome including FDG-PET radiomics: a combined analysis of two independent prospective european trials.
   *European Journal of Nuclear Medicine and Molecular Imaging*
-  2020. 
-  [doi](https://doi.org/10.1007/s00259-020-05049-6)
+  2021.
+  *doi:* [10.1007/s00259-020-05049-6](https://doi.org/10.1007/s00259-020-05049-6)
 
 
 * <a id="ijcars2019">[IJCARS2019]</a>
