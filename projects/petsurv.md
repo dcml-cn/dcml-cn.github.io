@@ -2,7 +2,11 @@
 
 [Back to the main page](https://dcml-cn.github.io/)
 
+*Clinical/Physics Colaborators:* Françoise Bodéré, Thomas Carlier, Clément Bailly; Caroline M Bodet-Milin
+
+
 ### Graph Neural Networks for survival analysis
+*SIMS Colaborator:* Mira Rizkallah
 *PhD Candidate:* Oriane Thiery (2022-2025) - Funded by: [AIby4](https://aiby4.ls2n.fr) and [Region Pays de la Loire]()
 *Master student:* Aswathi (2022)
 
