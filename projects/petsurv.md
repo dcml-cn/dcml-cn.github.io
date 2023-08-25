@@ -1,6 +1,6 @@
-## Survival Analysis and Treatment Response Prediction from PET Images
+<div style="text-align: right"> [Back to the main page](https://dcml-cn.github.io/) </div>
 
-[Back to the main page](https://dcml-cn.github.io/)
+## Survival Analysis and Treatment Response Prediction from PET Images
 
 *Clinical/Physics Colaborators:* Françoise Bodéré, Thomas Carlier, Clément Bailly; Caroline M Bodet-Milin
 
