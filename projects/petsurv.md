@@ -1,4 +1,4 @@
-<div style="text-align: right"> [Back to the main page](https://dcml-cn.github.io/) </div>
+<div style="text-align: right"> <a href="https://dcml-cn.github.io/">Back to the main page</a> </div>
 
 ## Survival Analysis and Treatment Response Prediction from PET Images
 
