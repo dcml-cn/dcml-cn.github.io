@@ -2,6 +2,8 @@
 
 ## Multimodal Imaging and Learning for Computional-based Medicine (MILCOM) Chair 
 
+[Site sur Centrale Nantes](https://www.ec-nantes.fr/recherche/lumiere-sur-notre-recherche/projet-milcom)
+
 <br>
 The following projects have been supported in part by the European Regional Development
 Fund (FEDER), the Pays de la Loire region on the Connect Talent scheme and Nantes Métropole (Convention 2017-10470).
