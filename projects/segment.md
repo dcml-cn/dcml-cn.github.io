@@ -25,4 +25,4 @@ medical image segmentation. In International Conference on Medical Image Computi
   
   [Link to the code repository](https://github.com/DawoodChanti/OLVA)
 
-  [Link to the dataset(s)](https://zmiclab.github.io/projects/mmwhs/)
+  [Link to the dataset](https://zmiclab.github.io/projects/mmwhs/)
