@@ -18,3 +18,11 @@ IEEE Transactions on Medical Imaging (TMI), February 2021. (JCR)
 * Dawood Al Chanti and Diana Mateus. Olva: Optimal latent vector alignment for unsupervised domain adaptation in
 medical image segmentation. In International Conference on Medical Image Computing and Computer Assisted Interventions
 (MICCAI), pages 261–271. Springer, 2021
+
+  Link to paper
+  DOI: https://doi.org/10.1007/978-3-030-87199-4_25
+  [SharedIt:](https://rdcu.be/cyl38)
+  
+  [Link to the code repository](https://github.com/DawoodChanti/OLVA)
+
+  [Link to the dataset(s)](https://zmiclab.github.io/projects/mmwhs/)
